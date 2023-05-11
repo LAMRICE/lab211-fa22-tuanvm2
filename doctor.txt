@@ -1,0 +1,8 @@
+DOC 8; Hoang; Pediatrics; 2                                  
+DOC 3; Lien; orthodontic; 1                   
+DOC 2; Phuong; Obstetrics; 2                   
+DOC 1; Nghia; Orthopedics; 3                   
+DOC 7; Long; Psychiatry; 1                   
+DOC 6; Linh; Surgery; 2                   
+DOC 5; Tuan; Dermatology; 3                   
+DOC 4; Hoa; Neurology; 4            

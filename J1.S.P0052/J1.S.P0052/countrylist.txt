@@ -1,0 +1,10 @@
+BRN; Brunei; 12345; Bad
+CPC; Campuchia; 4561; Nice
+DTM; Dong Timor; 45641; Bad
+LAO; Lao; 45645; Bad
+MLS; Malaysia; 156445; Nice
+MAM; Myanmar; 12345; Bad
+PLP; Philippines; 4381; Bad
+SGP; Singapore; 95154; Nice
+TL; Thai Lan; 4561; NiceS
+IDN; Indonesia; 5465; Bad

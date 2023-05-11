@@ -1,0 +1,7 @@
+DOC 9; Monochan; TimMach; 2
+DOC 3; Dinh; XuongKhop; 1
+DOC 12; Sontung; ; 0
+DOC 2; Hoang; Pediatrics; 2
+DOC 1; Tuan; Dermatology; 3
+DOC 7; Jinichikun; SanNhi; 1
+DOC 6; Chinh; TimMach; 2
